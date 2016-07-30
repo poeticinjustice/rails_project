@@ -16,3 +16,6 @@ Volunteer opportunities
 https://data.cityofnewyork.us/Social-Services/NYC-Service-Volunteer-Opportunities/bquu-z2ht
 
 Comments could be added to the blog to track progress
+
+Will likely use HTTParty to access database
+https://github.com/jnunemaker/httparty
