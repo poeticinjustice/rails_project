@@ -1,6 +1,6 @@
 **JOBLOG**
 
-This is just an early description of the project. I will prepare a more complete version of the project tonight, after I've completed the blog portion of it.
+This is just an early description of the project. I will prepare a more complete version of the project tonight (or tomorrow), after I've completed the blog portion of it.
 
 First, I will make a blog using the blog project that I was working on Thurday night to keep my repetitions up and solidify my understanding of rails. I will complete that tonight:
 http://edgeguides.rubyonrails.org/getting_started.html
