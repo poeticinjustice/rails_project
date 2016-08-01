@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  get 'welcome/index'
-  # get 'jobs/index'
+  #get 'welcome/index'
+  #get 'jobs/index'
   resources :jobs
 
   resources :articles do
