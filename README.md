@@ -19,3 +19,5 @@ Comments could be added to the blog to track progress
 
 Will likely use HTTParty to access database
 https://github.com/jnunemaker/httparty
+
+to update
