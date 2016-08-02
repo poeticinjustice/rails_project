@@ -1,3 +1,12 @@
 <h1>Welcome, Job seeker</h1>
 <%= link_to 'Log the jobs!', controller: 'articles' %><br><br>
 <%= link_to 'Search for jobs', controller: 'jobs' %>
+
+<button class="redirect" data-url="/jobs">jobs</a>
+<div id="jobs-container">
+  <h3>jobs</h3>
+  <ul id="job">
+    <!--  jobs will be rendered -->
+  </ul>
+
+</div>
